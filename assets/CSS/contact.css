@@ -1,0 +1,21 @@
+input {
+    margin-block-start: 10px;
+}
+
+.f1 {
+    background-color: rgb(200, 200, 241);
+}
+
+.f2 {
+    background-color: rgb(235, 191, 222);
+}
+
+.f3 {
+    background-color: rgb(238, 184, 184);
+
+}
+
+.buttonJachete {
+    background-color: rgb(161, 137, 137);
+
+}
